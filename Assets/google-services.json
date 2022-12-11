@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "141704897913",
+    "firebase_url": "https://bubble-shooter-ar.firebaseio.com",
+    "project_id": "bubble-shooter-ar",
+    "storage_bucket": "bubble-shooter-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141704897913:android:76e377b9cc5b231b",
+        "android_client_info": {
+          "package_name": "com.orulab.arbubble2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141704897913-nmsitn6poj8mg60rjk292j0brqtg06aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsozuMMs93a6RiV140CumrZXuIYzEjMi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

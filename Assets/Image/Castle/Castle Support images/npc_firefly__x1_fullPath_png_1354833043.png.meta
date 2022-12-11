@@ -1,0 +1,1999 @@
+fileFormatVersion: 2
+guid: b7fd651fba01f2d4189dc125fb40ba5f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_firefly__x1_fullPath_png_1354833043_0
+    21300002: npc_firefly__x1_fullPath_png_1354833043_1
+    21300004: npc_firefly__x1_fullPath_png_1354833043_2
+    21300006: npc_firefly__x1_fullPath_png_1354833043_3
+    21300008: npc_firefly__x1_fullPath_png_1354833043_4
+    21300010: npc_firefly__x1_fullPath_png_1354833043_5
+    21300012: npc_firefly__x1_fullPath_png_1354833043_6
+    21300014: npc_firefly__x1_fullPath_png_1354833043_7
+    21300016: npc_firefly__x1_fullPath_png_1354833043_8
+    21300018: npc_firefly__x1_fullPath_png_1354833043_9
+    21300020: npc_firefly__x1_fullPath_png_1354833043_10
+    21300022: npc_firefly__x1_fullPath_png_1354833043_11
+    21300024: npc_firefly__x1_fullPath_png_1354833043_12
+    21300026: npc_firefly__x1_fullPath_png_1354833043_13
+    21300028: npc_firefly__x1_fullPath_png_1354833043_14
+    21300030: npc_firefly__x1_fullPath_png_1354833043_15
+    21300032: npc_firefly__x1_fullPath_png_1354833043_16
+    21300034: npc_firefly__x1_fullPath_png_1354833043_17
+    21300036: npc_firefly__x1_fullPath_png_1354833043_18
+    21300038: npc_firefly__x1_fullPath_png_1354833043_19
+    21300040: npc_firefly__x1_fullPath_png_1354833043_20
+    21300042: npc_firefly__x1_fullPath_png_1354833043_21
+    21300044: npc_firefly__x1_fullPath_png_1354833043_22
+    21300046: npc_firefly__x1_fullPath_png_1354833043_23
+    21300048: npc_firefly__x1_fullPath_png_1354833043_24
+    21300050: npc_firefly__x1_fullPath_png_1354833043_25
+    21300052: npc_firefly__x1_fullPath_png_1354833043_26
+    21300054: npc_firefly__x1_fullPath_png_1354833043_27
+    21300056: npc_firefly__x1_fullPath_png_1354833043_28
+    21300058: npc_firefly__x1_fullPath_png_1354833043_29
+    21300060: npc_firefly__x1_fullPath_png_1354833043_30
+    21300062: npc_firefly__x1_fullPath_png_1354833043_31
+    21300064: npc_firefly__x1_fullPath_png_1354833043_32
+    21300066: npc_firefly__x1_fullPath_png_1354833043_33
+    21300068: npc_firefly__x1_fullPath_png_1354833043_34
+    21300070: npc_firefly__x1_fullPath_png_1354833043_35
+    21300072: npc_firefly__x1_fullPath_png_1354833043_36
+    21300074: npc_firefly__x1_fullPath_png_1354833043_37
+    21300076: npc_firefly__x1_fullPath_png_1354833043_38
+    21300078: npc_firefly__x1_fullPath_png_1354833043_39
+    21300080: npc_firefly__x1_fullPath_png_1354833043_40
+    21300082: npc_firefly__x1_fullPath_png_1354833043_41
+    21300084: npc_firefly__x1_fullPath_png_1354833043_42
+    21300086: npc_firefly__x1_fullPath_png_1354833043_43
+    21300088: npc_firefly__x1_fullPath_png_1354833043_44
+    21300090: npc_firefly__x1_fullPath_png_1354833043_45
+    21300092: npc_firefly__x1_fullPath_png_1354833043_46
+    21300094: npc_firefly__x1_fullPath_png_1354833043_47
+    21300096: npc_firefly__x1_fullPath_png_1354833043_48
+    21300098: npc_firefly__x1_fullPath_png_1354833043_49
+    21300100: npc_firefly__x1_fullPath_png_1354833043_50
+    21300102: npc_firefly__x1_fullPath_png_1354833043_51
+    21300104: npc_firefly__x1_fullPath_png_1354833043_52
+    21300106: npc_firefly__x1_fullPath_png_1354833043_53
+    21300108: npc_firefly__x1_fullPath_png_1354833043_54
+    21300110: npc_firefly__x1_fullPath_png_1354833043_55
+    21300112: npc_firefly__x1_fullPath_png_1354833043_56
+    21300114: npc_firefly__x1_fullPath_png_1354833043_57
+    21300116: npc_firefly__x1_fullPath_png_1354833043_58
+    21300118: npc_firefly__x1_fullPath_png_1354833043_59
+    21300120: npc_firefly__x1_fullPath_png_1354833043_60
+    21300122: npc_firefly__x1_fullPath_png_1354833043_61
+    21300124: npc_firefly__x1_fullPath_png_1354833043_62
+    21300126: npc_firefly__x1_fullPath_png_1354833043_63
+    21300128: npc_firefly__x1_fullPath_png_1354833043_64
+    21300130: npc_firefly__x1_fullPath_png_1354833043_65
+    21300132: npc_firefly__x1_fullPath_png_1354833043_66
+    21300134: npc_firefly__x1_fullPath_png_1354833043_67
+    21300136: npc_firefly__x1_fullPath_png_1354833043_68
+    21300138: npc_firefly__x1_fullPath_png_1354833043_69
+    21300140: npc_firefly__x1_fullPath_png_1354833043_70
+    21300142: npc_firefly__x1_fullPath_png_1354833043_71
+    21300144: npc_firefly__x1_fullPath_png_1354833043_72
+    21300146: npc_firefly__x1_fullPath_png_1354833043_73
+    21300148: npc_firefly__x1_fullPath_png_1354833043_74
+    21300150: npc_firefly__x1_fullPath_png_1354833043_75
+    21300152: npc_firefly__x1_fullPath_png_1354833043_76
+    21300154: npc_firefly__x1_fullPath_png_1354833043_77
+    21300156: npc_firefly__x1_fullPath_png_1354833043_78
+    21300158: npc_firefly__x1_fullPath_png_1354833043_79
+    21300160: npc_firefly__x1_fullPath_png_1354833043_80
+    21300162: npc_firefly__x1_fullPath_png_1354833043_81
+    21300164: npc_firefly__x1_fullPath_png_1354833043_82
+    21300166: npc_firefly__x1_fullPath_png_1354833043_83
+    21300168: npc_firefly__x1_fullPath_png_1354833043_84
+    21300170: npc_firefly__x1_fullPath_png_1354833043_85
+    21300172: npc_firefly__x1_fullPath_png_1354833043_86
+    21300174: npc_firefly__x1_fullPath_png_1354833043_87
+    21300176: npc_firefly__x1_fullPath_png_1354833043_88
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab02c58482b7f478b860975740925b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8cf7bf1466c404b86b6d89edc29df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc950672ba540a7468b775880af1bec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e70306473a234a93563ad76383232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2d9cbd36ffa24b8dc6cb84933f74a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77054e18a675a0449bf347818d4d8df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb608af23379e6e449cdca51f7306f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119f463a3fd6d84abdcf73c8e371c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d73ca935e69744a566c0b29ec71cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 320
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfd3291bc9f3f640993a75267d07cfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddff5a31b8cc4c49ab34b5291b4d309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa3b13a0ebc2443b63579ab714ca4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad053d19e1aea047b219bfc84ddad03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c4851a7a26ac4b8beca109c24a041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600fcd492c38ae94a97b906993561c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e4509eac2ecd4b9d17d7d717a37d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291eae14c7389747823f59470d11619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f206b682c71af144b1f5731fc4e5456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16879a786ab52fc4fa3b4bb059b5a278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_19
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 280
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61391199f189e499187485b6592bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d3adbe93a56034395016fa67e2ad2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be0e9de5c75ad54e97c8134c034c8b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9e4adc3641b54ca7b4571cb4c2afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e6f9396aeac243982916e8b6b1a51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83ae4973dc4a2b45a24345895cc7a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3f7e654d40a745a4907d59ce29817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20885232f1c4e30428e026b75c63fbd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e68248d57c00454bb390eb75afcb9bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_28
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561be38e97de5d458d55d2d5a0a8c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_29
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 240
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c57dcf42cc3c48a8b4b9cf3cf59ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e018a421c23fb847ab8b8d7778b42a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6674d6ec7a4524cbdcf042a35fd2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a15c9868c4aa3b42a66015891085fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3e436bb4158742b7a1496c02bf176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1dd4ebb651ee4d9e975b107644bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810220161567b4147b838d75e0068608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0739952c07829c44927265078f90359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5251f87c9c6a9848b3766c67f26a74d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f26080736b4c14e9a0f3bb13742f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 200
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba69045c434e61448391ed1c5aeb811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdba17f65ab677c418eda64c903b21b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0810033a17cd5448878b5fcf900e067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ed2ae1f5e51e478d2bb28d205f045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793d1abd7c689b478692b316d20a888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1755c8bbcc11142be0d6d16cc34555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4bd64e4c6a6b446825bd59e55260ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21f5b76b79ebe438d416996af76b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_47
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ae31f451152d40810ade9ac0bd107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_48
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c7ed3f2718154a9c054276bde2962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_49
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 160
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1a3a39a206f0458223559dd806f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca3f2dfd33ae44984d31df8e6b7192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593f026094d01a41ae35a10fa40729d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73143fdaa23035c47a4d486aad92919d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37364577ac60dd42aa75ec0b96ee140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9148d07b93cf4144bf4f27a1df5046a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d81812238e8eb84caefafe7b60fef16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_56
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7d065cfeac1744a82856b5c935e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59448ad7666b40349b519be537396a02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bac88f6aa1dd34e8d899266c1551f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_59
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 120
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358e38c650deca44bd7c41ea0dee2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058d5ac727a82646877594f1d180bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c594af2ac6f44aaeac500e8415542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_62
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf87956688c8a54981e76752dce4f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2b705a1ad13e40970864656809ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_64
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6741c57c55be4f9b969670d353701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_65
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0b5f995a9a8e4e9c8a7bf78ae7fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_66
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cf85e4e7019b4a9dc0c0246231501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_67
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa335a073ab8f42a081fe8355bd677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_68
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760189e7a28c7444e97a974e920016af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_69
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 80
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1cab55971d19741bd2475fae24d524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657d80a93a7f6e4e91ba42c679111fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2242abbd02c39d42b00931a1620fb79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_72
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91b19a5271aed408a53b38bae3e98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ecb107d8bfb544e933e45a8a9955ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d8d5f81327914aa0c8db55945547e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_75
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10324e89164facc49a38d85562defed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_76
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af13ffcde764e384580d2269d26ef21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_77
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651db597855e264c84b229e9fafba71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_78
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e1798973bcf542b74d54726f1da1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_79
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 40
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d9c8d61858034eaef51e171066bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cb2e00e61e5f244a8446d05948361d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61e29e88a9dcb24e91e4f8d913341d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b897db6ce97de4fa5c9a1868b487f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3132f5920e2d946ad0c3070af31631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_84
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c292d51dc18c43a3f3e38ac428fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_85
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53275dd624b52c341abafbd63e0e395d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd5daa747162b949ac99ae92d55b2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_87
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c951559213164ab94f5904814810c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_firefly__x1_fullPath_png_1354833043_88
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c59fd65389b5f4d895bbb96b550d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f9b415447bb8334099ce98525f3e66a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
